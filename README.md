@@ -1,8 +1,4 @@
----
-description: Brief overview of the goals and purpose of this site.
----
-
-# Hello!
+# Statement of purpose
 
 Having been in the infosec space for a few years, my local drive is awash with unstructured notes, thoughts and ideas. This is my attempt to organise them into a logical narative, with the aim to make a useful resource for myself and hopefully others.
 
@@ -13,7 +9,8 @@ Some key takeaways before diving into the site:
 {% hint style="success" %}
 * Learn and recap techniques and ideas
 * Feel free to contribute 
-* 
+* Share things you've found
+* Hack the gibson
 {% endhint %}
 
 {% hint style="danger" %}

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hello!](README.md)
+* [Statement of purpose](README.md)
 
 ## Techniques
 
