@@ -46,5 +46,11 @@ Password spraying tool for Lync/S4B & OWA
 
 {% embed url="https://github.com/byt3bl33d3r/SprayingToolkit" %}
 
+## Kerbrute
+
+Kerberos brute forcing
+
+{% embed url="https://github.com/ropnop/kerbrute" %}
+
 
 
