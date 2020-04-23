@@ -125,7 +125,6 @@ Content-Length: 0
 
 ## Resources
 
-* [https://m8r0wn.com/posts/2020/00/ntlm-info.html](https://m8r0wn.com/posts/2020/00/ntlm-info.html)
 * [https://github.com/PortSwigger/ntlm-challenge-decoder](https://github.com/PortSwigger/ntlm-challenge-decoder)
 * [https://nmap.org/nsedoc/scripts/http-ntlm-info.html](https://nmap.org/nsedoc/scripts/http-ntlm-info.html)
 
