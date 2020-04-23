@@ -11,6 +11,5 @@
 
 ## Tools
 
-* [Untitled](untitled-1.md)
-* [Untitled](untitled-2.md)
+* [Tools](untitled-1.md)
 
