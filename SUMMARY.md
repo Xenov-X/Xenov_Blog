@@ -4,6 +4,8 @@
 
 ## Techniques
 
+* [Intelligence Gathering](techniques/intelligence-gathering/README.md)
+  * [Internal domain name enumeration](techniques/intelligence-gathering/internal-domain-name-enumeration.md)
 * [Execution](techniques/execution/README.md)
   * [DLL Hijacking](techniques/execution/dll-hijacking.md)
 
