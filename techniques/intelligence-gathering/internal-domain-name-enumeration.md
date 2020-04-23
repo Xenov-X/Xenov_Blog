@@ -4,7 +4,7 @@ description: >-
   applications that support NTLM SSP authentication, such as Exchange.
 ---
 
-# Internal domain name enumeration
+# Internal domain enumeration
 
 ## NTLM SSP challenge response decoding for internal domain
 
