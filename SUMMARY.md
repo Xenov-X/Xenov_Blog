@@ -6,6 +6,8 @@
 
 * [Intelligence Gathering](techniques/intelligence-gathering/README.md)
   * [Internal domain enumeration](techniques/intelligence-gathering/internal-domain-name-enumeration.md)
+* [Initial Access](techniques/initial-access/README.md)
+  * [Mail scanning](techniques/initial-access/mail-scanning.md)
 * [Execution](techniques/execution/README.md)
   * [DLL Hijacking](techniques/execution/dll-hijacking.md)
 * [Web application testing](techniques/web-application-testing/README.md)
@@ -13,5 +15,5 @@
 
 ## Tools
 
-* [Tools](untitled-1.md)
+* [Tools](tools/untitled-1.md)
 
