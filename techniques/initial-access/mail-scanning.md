@@ -2,9 +2,11 @@
 
 Microsoft EOP scanning ranges are availbable fromtheir API at:
 
-{% embed url="https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7" %}
+Website: [https://docs.microsoft.com/en-gb/office365/enterprise/urls-and-ip-address-ranges](https://docs.microsoft.com/en-gb/office365/enterprise/urls-and-ip-address-ranges)
 
+[API Docs: https://docs.microsoft.com/en-gb/office365/enterprise/office-365-ip-web-service](https://docs.microsoft.com/en-gb/office365/enterprise/office-365-ip-web-service)
 
+[API: https://endpoints.office.com/endpoints/worldwide](https://endpoints.office.com/endpoints/worldwide)
 
 [https://rhinosecuritylabs.com/social-engineering/bypassing-email-security-url-scanning/](https://rhinosecuritylabs.com/social-engineering/bypassing-email-security-url-scanning/)
 
