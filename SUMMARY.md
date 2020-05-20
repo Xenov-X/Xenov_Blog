@@ -12,7 +12,8 @@
 * [Execution](techniques/execution/README.md)
   * [DLL Hijacking](techniques/execution/dll-hijacking.md)
 * [Web application testing](techniques/web-application-testing/README.md)
-  * [XSS - Cross site scripting](techniques/web-application-testing/xss-cross-site-scripting.md)
+  * [XSS - Cross site scripting](techniques/web-application-testing/xss-cross-site-scripting/README.md)
+    * [Weaponising XSS](techniques/web-application-testing/xss-cross-site-scripting/weaponising-xss.md)
 
 ## Tools
 
