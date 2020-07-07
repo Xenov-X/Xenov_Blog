@@ -6,7 +6,7 @@ URL/URIs that can be used for user enumeration
 
 200 = Valid , 302 = invalid
 
-also uhoh365, for eadily updateable tooling
+also uhoh365, for easily updateable tooling
 
 [https://github.com/Xenov-X/UhOh365](https://github.com/Xenov-X/UhOh365)
 
