@@ -15,15 +15,21 @@ description: >-
 
 Write speeds will be significantly increased for HDDs **UP TO THE SIZE OF YOUR CACHE DRIVE**. Once the cache is full it will take some time to write to disk.
 
+I've found this is great to boost performance when gaming vs using the raw HDD alone; let me know how you get on! 
 
-
-Warning: Should the SSD fail, any data on it that has yet to be written to the HDD will be lost. You can use multiple SSDs as redundent cache to accomodate this, however, I'll leave that as an exercise to the reader. Happy to help on twitter \(top bar\) if you need a hand. 
+**Warning: Should the SSD fail, any data on it that has yet to be written to the HDD will be lost. You can use multiple SSDs as redundent cache to accomodate this, however, I'll leave that as an exercise to the reader. Happy to help on twitter \(top bar\) if you need a hand.** 
 
 ## Benchmarks
 
-6TB WD Elements shucked drive stats
+### 6TB WD Elements shucked drive stats
 
-6TB WD Elements shucked drive + 256GB NVMe cache stats
+![](../../.gitbook/assets/disk%20%281%29.png)
+
+### 6TB WD Elements shucked drive + 256GB NVMe cache stats
+
+![4 Gigabyte Test File](../../.gitbook/assets/disk-tiered.png)
+
+![64 Gigabyte Test file](../../.gitbook/assets/disk-tiered-64gb%20%281%29.png)
 
 ## Steps
 
