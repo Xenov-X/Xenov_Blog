@@ -24,6 +24,8 @@
 * [Web application testing](techniques/web-application-testing/README.md)
   * [XSS - Cross site scripting](techniques/web-application-testing/xss-cross-site-scripting/README.md)
     * [Weaponising XSS](techniques/web-application-testing/xss-cross-site-scripting/weaponising-xss.md)
+* [Other](techniques/other/README.md)
+  * [Creating Tiered Storage in Windows 10](techniques/other/creating-tiered-storage-in-windows-10.md)
 
 ## Tools
 
