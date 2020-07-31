@@ -33,7 +33,7 @@ I've found this is great to boost performance when gaming vs using the raw HDD a
 
 ## Steps
 
-### Check disks show up
+### Check disks
 
 ```text
 #List disks
