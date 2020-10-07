@@ -21,6 +21,7 @@
   * [Linux](techniques/privilege-escalation/linux.md)
 * [Defense Evasion](techniques/defense-evasion/README.md)
   * [Bypassing proxies and firewalls](techniques/defense-evasion/bypassing-proxies-and-firewalls.md)
+  * [Microsoft Windows Defender](techniques/defense-evasion/microsoft-windows-defender.md)
 * [Web application testing](techniques/web-application-testing/README.md)
   * [XSS - Cross site scripting](techniques/web-application-testing/xss-cross-site-scripting/README.md)
     * [Weaponising XSS](techniques/web-application-testing/xss-cross-site-scripting/weaponising-xss.md)
