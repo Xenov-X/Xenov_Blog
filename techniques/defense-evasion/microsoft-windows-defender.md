@@ -1,6 +1,13 @@
 # Microsoft Windows Defender
 
+Check if AV running:
 
+```bash
+WMIC /Node:localhost /Namespace:\\root\SecurityCenter2 Path AntiVirusProduct Get displayName /Format:List | more
+Get-MpComputerStatus 
+```
+
+Disable Defender
 
 ```text
 sc config WinDefend start= disabled
