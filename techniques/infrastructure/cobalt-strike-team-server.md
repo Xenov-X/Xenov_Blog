@@ -4,9 +4,19 @@ description: Quick commands to set up a Cobalt Strike team server.
 
 # Cobalt Strike Team Server
 
-As root:
+Firewall settings:
 
-```text
+```bash
+INBOUND
+Allow all from lab IPs
+Allow HTTP & HTTPS from HTTP(S) redirectors
+Allow HTTP and DNS from DNS redirectors
+Deny all 
+```
+
+As root on server:
+
+```bash
 apt update #update initial image
 apt upgrade 
 
@@ -19,7 +29,7 @@ tar xvzf /home/ubuntu/cobaltstrike-dist.tgz -C /root/  #extract to /root/cobalts
 
 cd /root/cobaltstrike/
 ./update #This can fail if not run from the correct directory 
-
+#Enter licence key 
 
 ```
 
