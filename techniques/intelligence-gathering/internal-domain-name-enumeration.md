@@ -14,14 +14,14 @@ Knowing the internal domain name of a target can be highly useful for a range of
 
 Web applications that support NTLM authentication can be leveraged to access this information very easily. Fortunately, a very common web application supports NTLM authentication, Exchange servers. 
 
-Two URLs that Exchange servers support for NTLM authentication are shown below. This authentication type is not exclusive to exchange, and this internal domain infromation disclosure is possible on any applicaitions that support it. 
+Two URLs that Exchange servers support for NTLM authentication are shown below. This authentication type is not exclusive to exchange, and this internal domain information disclosure is possible on any applications that support it. 
 
 ```text
 https://[host]/EWS
 https://autodiscover.[host]/autodiscover/autodiscover.xml 
 ```
 
-By intiating an NTLM authentication request with null credentials the server will respond with an NTLM challenge response. This is encoded with a known key and can be decoded enumerate NetBIOS name, DNS, and OS build version information.
+By initiating an NTLM authentication request with null credentials the server will respond with an NTLM challenge response. This is encoded with a known key and can be decoded enumerate NetBIOS name, DNS, and OS build version information.
 
 In many cases web applications that do not offer NTLM SSO authentication during normal usage will respond with a NTLM challenge response if a GET request is made including the Authorization header with null credential values.
 
@@ -38,6 +38,8 @@ nmap -p 443 --script http-ntlm-info [host]
 ### Other services
 
 NTLM SSO is supported by a wide array of other services.
+
+
 
 The nmap script discussed above \(http-ntlm-info.nse\) has alternatives for a number of other protocols.
 

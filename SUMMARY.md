@@ -7,6 +7,7 @@
 * [Intelligence Gathering](techniques/intelligence-gathering/README.md)
   * [Internal domain enumeration](techniques/intelligence-gathering/internal-domain-name-enumeration.md)
   * [O365 email enumeration](techniques/intelligence-gathering/o365-email-enumeration.md)
+  * [Host Enumeration](techniques/intelligence-gathering/host-enumeration.md)
 * [Initial Access](techniques/initial-access/README.md)
   * [Mail scanning](techniques/initial-access/mail-scanning.md)
 * [Execution](techniques/execution/README.md)
