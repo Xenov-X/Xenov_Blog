@@ -20,6 +20,8 @@ Cyber Mentor Buffer Overflows made easy series:
 
 Finding the offset episode of Cyber Mentor series is particularly useful
 
+[https://stackoverflow.com/questions/17775186/buffer-overflow-works-in-gdb-but-not-without-it](https://stackoverflow.com/questions/17775186/buffer-overflow-works-in-gdb-but-not-without-it)
+
 
 
 
