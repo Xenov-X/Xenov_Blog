@@ -27,6 +27,7 @@
   * [XSS - Cross site scripting](techniques/web-application-testing/xss-cross-site-scripting/README.md)
     * [Weaponising XSS](techniques/web-application-testing/xss-cross-site-scripting/weaponising-xss.md)
 * [Other](techniques/other/README.md)
+  * [Buffer Overflow resources](techniques/other/buffer-overflow-resources.md)
   * [Creating Tiered Storage in Windows 10](techniques/other/creating-tiered-storage-in-windows-10.md)
 * [Infrastructure](techniques/infrastructure/README.md)
   * [Cobalt Strike Team Server](techniques/infrastructure/cobalt-strike-team-server.md)
