@@ -10,6 +10,7 @@
   * [Host Enumeration](techniques/intelligence-gathering/host-enumeration.md)
 * [Initial Access](techniques/initial-access/README.md)
   * [Mail scanning](techniques/initial-access/mail-scanning.md)
+  * [VBA](techniques/initial-access/vba.md)
 * [Execution](techniques/execution/README.md)
   * [DLL Hijacking](techniques/execution/dll-hijacking.md)
   * [Windows LOLBINS](techniques/execution/windows-lolbins/README.md)
