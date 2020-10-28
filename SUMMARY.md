@@ -36,6 +36,7 @@
 * [Infrastructure](techniques/infrastructure/README.md)
   * [Cobalt Strike Team Server](techniques/infrastructure/cobalt-strike-team-server.md)
   * [HTTPS Redirector](techniques/infrastructure/https-redirector.md)
+  * [Multi functional WebApp](techniques/infrastructure/multi-functional-webapp.md)
 
 ## Tools
 
