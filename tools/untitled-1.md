@@ -38,6 +38,14 @@ Quick check for DNS entries relating to SPF and DMARC to determine if a domain h
 
 ## Execution
 
+### PEzor2
+
+Binary to .NET binary 
+
+[https://github.com/phra/PEzor/blob/master/aggressor/PEzor.cna](https://github.com/phra/PEzor/blob/master/aggressor/PEzor.cna)
+
+[https://github.com/phra/PEzor](https://github.com/phra/PEzor)
+
 ## Credential Access
 
 ### SprayingToolkit
