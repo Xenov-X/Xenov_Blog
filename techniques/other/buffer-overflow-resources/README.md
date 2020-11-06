@@ -22,6 +22,13 @@ Finding the offset episode of Cyber Mentor series is particularly useful
 
 [https://stackoverflow.com/questions/17775186/buffer-overflow-works-in-gdb-but-not-without-it](https://stackoverflow.com/questions/17775186/buffer-overflow-works-in-gdb-but-not-without-it)
 
+[https://0xrick.github.io/binary-exploitation/bof5/](https://0xrick.github.io/binary-exploitation/bof5/)
+
+  
+quick c loader for shellcode:
+
+[https://tuttlem.github.io/2017/10/28/executing-shellcode-in-c.html](https://tuttlem.github.io/2017/10/28/executing-shellcode-in-c.html)
+
 
 
 
