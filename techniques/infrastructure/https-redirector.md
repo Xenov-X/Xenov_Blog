@@ -4,9 +4,7 @@ description: Quick steps to set up basic HTTPS redirector
 
 # HTTPS Redirector
 
-c
-
-c
+Example basic HTTP\(S\) redirector. Ideally add additional filtering for specific URIs etc.
 
 ```text
 cat /etc/nginx/sites-available/default
@@ -16,6 +14,21 @@ server {
         listen 80 default_server;
         listen [::]:80 default_server;
         server_name _;
+        
+        #Allow local web server to handle requests made to LetsEncrypt files. 
+        #This will esure LetsEncrypt/Certbot can update TLS certificated, and requests won't be forwarded to proxied sites. 
+       
+        location ^~ /.well-known/acme-challenge/ {
+        default_type "text/plain";
+        #root         /var/www/letsencrypt; #If you use Certbot's "nginx" option, this doesnt need to be added, as certbot will place files in your web root. 
+        }
+
+        #Return 404 if users try to access acme-challenge folder
+        location = /.well-known/acme-challenge/ {
+        return 404;
+        }
+        
+        
         return 301 https://$host$request_uri;
 
 }
