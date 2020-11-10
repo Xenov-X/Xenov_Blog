@@ -32,6 +32,7 @@
   * [Dumping registry hives](techniques/credential-access/dumping-registry-hives.md)
   * [Dump the domain \(Domain Controllers\)](techniques/credential-access/dump-the-domain.md)
   * [Chrome cookies & passwords](techniques/credential-access/chrome-cookies-and-passwords.md)
+  * [Wi-Fi passwords](techniques/credential-access/wi-fi-passwords.md)
 * [Infrastructure](techniques/infrastructure-1.md)
 * [Web application testing](techniques/web-application-testing/README.md)
   * [XSS - Cross site scripting](techniques/web-application-testing/xss-cross-site-scripting/README.md)
