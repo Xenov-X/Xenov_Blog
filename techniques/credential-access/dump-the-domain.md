@@ -38,5 +38,7 @@ Then the output can be filtered to remove both disabled and machine accounts:
 grep -i "enabled" <secetsdump.py_output.txt> | grep -v "\\$" | sed -e 's! (status=Enabled)!!' $1 > output-filtered.txt
 ```
 
+### Diskshadow
 
+To Do 
 
