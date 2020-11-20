@@ -31,7 +31,7 @@
   * [Dumping LSASS.exe](techniques/credential-access/dumping-lsass.exe.md)
   * [Dumping registry hives](techniques/credential-access/dumping-registry-hives.md)
   * [Dump the domain \(Domain Controllers\)](techniques/credential-access/dump-the-domain.md)
-  * [Chrome cookies & passwords](techniques/credential-access/chrome-cookies-and-passwords.md)
+  * [Browser cookies & passwords](techniques/credential-access/chrome-cookies-and-passwords.md)
   * [Wi-Fi passwords](techniques/credential-access/wi-fi-passwords.md)
   * [Clipboard](techniques/credential-access/clipboard.md)
 * [Infrastructure](techniques/infrastructure-1.md)
