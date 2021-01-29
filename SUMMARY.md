@@ -22,6 +22,7 @@
     * [Initial Enumeration](techniques/privilege-escalation/windows/initial-enumeration.md)
   * [Linux](techniques/privilege-escalation/linux.md)
 * [Defense Evasion](techniques/defense-evasion/README.md)
+  * [Clear windows event logs](techniques/defense-evasion/clear-windows-event-logs.md)
   * [Bypassing proxies and firewalls](techniques/defense-evasion/bypassing-proxies-and-firewalls.md)
   * [Microsoft Windows Defender](techniques/defense-evasion/microsoft-windows-defender.md)
 * [Credential Access](techniques/credential-access/README.md)
