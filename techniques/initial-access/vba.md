@@ -18,5 +18,9 @@ Run
 End Sub
 ```
 
+## Bypass keying for testing
 
+```text
+set USERDNSDOMAIN=<the_target_domain_name> & macrodoc.xslm
+```
 
