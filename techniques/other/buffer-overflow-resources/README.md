@@ -14,9 +14,9 @@ Linux buffer Overflow Walkthroughs
 
 Cyber Mentor Buffer Overflows made easy series:
 
-[https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT\_\_MCUeix3O0DPbmuaRuR\_4Hxo4m3G](https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
+[https://www.youtube.com/watch?v=qSnPayW6F7U\&list=PLLKT\_\_MCUeix3O0DPbmuaRuR\_4Hxo4m3G](https://www.youtube.com/watch?v=qSnPayW6F7U\&list=PLLKT\_\_MCUeix3O0DPbmuaRuR\_4Hxo4m3G)
 
-\(can be mostly followed on linux using edb \(graphical\) / gdb \(cli\)\)
+(can be mostly followed on linux using edb (graphical) / gdb (cli))
 
 Finding the offset episode of Cyber Mentor series is particularly useful
 
@@ -24,12 +24,10 @@ Finding the offset episode of Cyber Mentor series is particularly useful
 
 [https://0xrick.github.io/binary-exploitation/bof5/](https://0xrick.github.io/binary-exploitation/bof5/)
 
-  
+\
 quick c loader for shellcode:
 
 [https://tuttlem.github.io/2017/10/28/executing-shellcode-in-c.html](https://tuttlem.github.io/2017/10/28/executing-shellcode-in-c.html)
-
-
 
 
 

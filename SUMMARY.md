@@ -5,6 +5,7 @@
 ## Techniques
 
 * [Intelligence Gathering](techniques/intelligence-gathering/README.md)
+  * [O365 Tenant ID](techniques/intelligence-gathering/o365-tenant-id.md)
   * [Internal domain enumeration](techniques/intelligence-gathering/internal-domain-name-enumeration.md)
   * [O365 email enumeration](techniques/intelligence-gathering/o365-email-enumeration.md)
   * [Host Enumeration](techniques/intelligence-gathering/host-enumeration.md)
@@ -31,7 +32,7 @@
   * [LSA secrets extraction](techniques/credential-access/lsa-secrets-extraction.md)
   * [Dumping LSASS.exe](techniques/credential-access/dumping-lsass.exe.md)
   * [Dumping registry hives](techniques/credential-access/dumping-registry-hives.md)
-  * [Dump the domain \(Domain Controllers\)](techniques/credential-access/dump-the-domain.md)
+  * [Dump the domain (Domain Controllers)](techniques/credential-access/dump-the-domain.md)
   * [Browser cookies & passwords](techniques/credential-access/chrome-cookies-and-passwords.md)
   * [Wi-Fi passwords](techniques/credential-access/wi-fi-passwords.md)
   * [Clipboard](techniques/credential-access/clipboard.md)
@@ -56,4 +57,3 @@
 ## Tools
 
 * [Tools](tools/untitled-1.md)
-
