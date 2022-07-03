@@ -23,13 +23,13 @@ I've found this is great to boost performance when gaming vs using the raw HDD a
 
 ### 6TB WD Elements shucked drive stats
 
-![](<../../.gitbook/assets/disk (2).PNG>)
+![](<../../.gitbook/assets/disk (1).png>)
 
 ### 6TB WD Elements shucked drive + 256GB NVMe cache stats
 
-![4 Gigabyte Test File](<../../.gitbook/assets/disk-tiered (1).PNG>)
+![4 Gigabyte Test File](../../.gitbook/assets/disk-tiered.png)
 
-![64 Gigabyte Test file](<../../.gitbook/assets/disk-tiered-64gb (1).PNG>)
+![64 Gigabyte Test file](<../../.gitbook/assets/disk-tiered-64gb (1).png>)
 
 ## Steps
 
