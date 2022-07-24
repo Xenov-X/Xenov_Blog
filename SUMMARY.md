@@ -49,6 +49,7 @@
   * [Default Credentials](techniques/other/default-credentials.md)
 * [Red Team Infrastructure](techniques/infrastructure/README.md)
   * [Cobalt Strike Team Server](techniques/infrastructure/cobalt-strike-team-server.md)
+  * [Pre-redirector (free domains!)](techniques/infrastructure/pre-redirector-free-domains.md)
   * [HTTPS Redirector](techniques/infrastructure/https-redirector.md)
   * [Multi functional WebApp](techniques/infrastructure/multi-functional-webapp.md)
   * [Malleable C2 profiles](techniques/infrastructure/malleable-c2-profiles.md)
