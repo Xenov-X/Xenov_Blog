@@ -54,6 +54,7 @@
   * [Multi functional WebApp](techniques/infrastructure/multi-functional-webapp.md)
   * [Malleable C2 profiles](techniques/infrastructure/malleable-c2-profiles.md)
   * [Gophish Docker reverse proxy](techniques/infrastructure/gophish-docker-reverse-proxy.md)
+* [Malware](techniques/malware.md)
 
 ## Tools
 
