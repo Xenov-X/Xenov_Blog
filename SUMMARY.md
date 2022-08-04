@@ -8,6 +8,7 @@
   * [O365 Tenant ID](techniques/intelligence-gathering/o365-tenant-id.md)
   * [Internal domain enumeration](techniques/intelligence-gathering/internal-domain-name-enumeration.md)
   * [O365 email enumeration](techniques/intelligence-gathering/o365-email-enumeration.md)
+  * [Passive nmap (smap)](techniques/intelligence-gathering/passive-nmap-smap.md)
   * [Host Enumeration](techniques/intelligence-gathering/host-enumeration.md)
 * [Initial Access](techniques/initial-access/README.md)
   * [Mail scanning](techniques/initial-access/mail-scanning.md)
