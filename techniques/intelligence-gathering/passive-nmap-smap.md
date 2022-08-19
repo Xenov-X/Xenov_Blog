@@ -50,3 +50,9 @@ grep -Po '(\d*)(?=/open)' output.gnmap | sort -u > openport.list;
 for PORT in $(cat openport.list); do  awk -v port="${PORT}" "/${PORT}\/open/ {print \$2}" output.gnmap >> Live_${PORT}; done;
 ```
 
+Or as a oneliner:
+
+```
+cat ip-ranges.gnmap| grep -Po '(\d*)(?=/open)' | sort -u | while read PORT ; do cat ip-ranges.gnmap | awk -v port="${PORT}" "/${PORT}\/open/ {print \$2}" >> Live_${PORT}; done
+
+```
