@@ -24,4 +24,4 @@ Whether you are standing up new infrastructure, migrating to the cloud, or re-ev
 
 ---
 
-For enquiries or to discuss how these services can support your organisation, feel free to get in touch.
+For enquiries or to discuss how these services can support your organisation, feel free to get in touch at enquire@xenov.co.uk.
