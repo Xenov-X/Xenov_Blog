@@ -60,6 +60,10 @@
 * [Automation](techniques/automation/README.md)
   * [Introducing csrest and csbot: Automating Cobalt Strike Operations](techniques/automation/introducing-csrest-and-csbot-automating-cobalt-strike-operations.md)
 
+## Services
+
+* [Services](services/services.md)
+
 ## Tools
 
 * [Tools](tools/untitled-1.md)
