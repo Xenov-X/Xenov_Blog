@@ -57,6 +57,8 @@
   * [Malleable C2 profiles](techniques/infrastructure/malleable-c2-profiles.md)
   * [Gophish Docker reverse proxy](techniques/infrastructure/gophish-docker-reverse-proxy.md)
 * [Malware](techniques/malware.md)
+* [Automation](techniques/automation/README.md)
+  * [Introducing csrest and csbot: Automating Cobalt Strike Operations](techniques/automation/introducing-csrest-and-csbot-automating-cobalt-strike-operations.md)
 
 ## Tools
 
