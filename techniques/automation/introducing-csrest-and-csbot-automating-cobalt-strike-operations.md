@@ -6,6 +6,10 @@ description: An intro to csrest and csbot automation tooling.
 
 I'm excited to share two new tools I've been working on: **csrest** and **csbot**. Together, they bring proper automation and workflow orchestration to Cobalt Strike operations through its new REST API (Cobalt Strike 4.12+).
 
+{% embed url="https://github.com/Xenov-X/csbot" %}
+
+{% embed url="https://github.com/Xenov-X/csrest" %}
+
 ### The Problem
 
 Anyone who's run a complex engagement knows the pain; you can script with Aggressor or batch commands, but you quickly hit limitations and end up rereading the dashnine Sleep lang documentation for the thousandth time.
