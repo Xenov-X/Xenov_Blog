@@ -14,7 +14,7 @@ I'm excited to share two new tools I've been working on: **csrest** and **csbot*
 
 Anyone who's run a complex engagement knows the pain; you can script with Aggressor or batch commands, but you quickly hit limitations and end up rereading the dashnine Sleep lang documentation for the thousandth time.
 
-That's where these tools come in.
+That's where these tools come in!
 
 ### csrest: A Go Client
 
